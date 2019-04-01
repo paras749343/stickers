@@ -13,13 +13,13 @@ android {
     }
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.samplestickerapp"
+        applicationId "com.tweaktable.stickersbyan"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
-        versionName "1.0"
+        versionName "1.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-        def contentProviderAuthority = applicationId + ".stickercontentprovider"
+        def contentProviderAuthority = applicationId + ".stickersbyan"
         // Creates a placeholder property to use in the manifest.
         manifestPlaceholders =
                 [contentProviderAuthority: contentProviderAuthority]
