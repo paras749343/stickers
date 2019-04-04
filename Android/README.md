@@ -1,3 +1,10 @@
+This Sticker app contains An Stickers based on the doodles of Antra Gurain.
+Follow her on Insta: instagram.com/thecloddishdoodler
+
+This Sticker pack is developed and managed by Tweak Table.
+Find our Youtube Channel:https://www.youtube.com/channel/UC-l1FktT68wbfz9l8XPngaw
+Find This app on Playstore: https://play.google.com/store/apps/developer?id=Tweak+Table
+
 # Android Stickers Apps for WhatsApp
 
 ## Overview
