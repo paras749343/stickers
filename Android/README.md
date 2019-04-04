@@ -1,5 +1,5 @@
 This Sticker app contains An Stickers based on the doodles of Antra Gurain.
-Follow her on Insta: instagram.com/thecloddishdoodler
+Follow her on Insta: https://www.instagram.com/thecloddishdoodler/
 
 This Sticker pack is developed and managed by Tweak Table.
 Find our Youtube Channel:https://www.youtube.com/channel/UC-l1FktT68wbfz9l8XPngaw
